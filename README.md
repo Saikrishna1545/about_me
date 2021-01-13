@@ -26,6 +26,6 @@ Hi Everyone, I am Saikrishna from Telangana, India. I did my schooling in Tejasw
 * quick learner
 
 # Connections:
-* Linkedin: [](https://www.linkedin.com/in/saikrishna-emmadishetty-613014146/)
-* github : [](https://github.com/Saikrishna1545)
+* Linkedin: [] (https://www.linkedin.com/in/saikrishna-emmadishetty-613014146/)
+* github : [] (https://github.com/Saikrishna1545)
 
