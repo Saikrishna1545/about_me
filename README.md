@@ -4,7 +4,7 @@ Hi Everyone, I am Saikrishna from Telangana, India. I did my schooling in Tejasw
 
 # Collaboration:
 
-(https://github.com/Saikrishna1545/about_me)
+* Git: Create / Clone / Push
 
 # Languages:
 * JAVA
@@ -18,6 +18,8 @@ Hi Everyone, I am Saikrishna from Telangana, India. I did my schooling in Tejasw
 
 * I completed my Bachelors of Engineering  in Electronics and Communication Engineering from Kakatiya university, Waranagal Urban.
 * CURRENTLY pusuring masters in applied computer science in North West Missouri State University.
+
+## Publishing
 
 # Strengths:
 
